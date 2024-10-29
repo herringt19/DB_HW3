@@ -1,4 +1,4 @@
-Homework 3: Flask server thats lets you insert a new row into 'fruit_a' table and show unique fruits in both tables
+Homework 3: Flask server thats lets you insert a new row into 'fruit_a' table and show unique fruits in both tables  
 Members: Ty Herring and Jacob Smith
 
 ## Quick Start
