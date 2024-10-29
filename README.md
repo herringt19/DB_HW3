@@ -27,3 +27,13 @@ pip3 install -r requirements.txt
 ```
 python3 main.py
 ```
+
+## Running the Program
+To add a new row (5, 'Cherry) into the basket_a:
+```
+127.0.0.1:5000/api/update_basket_a
+```
+To show all unique fruits in basket_a and basket_b:
+```
+127.0.0.1:5000/api/unique
+```
